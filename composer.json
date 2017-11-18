@@ -1,0 +1,21 @@
+{
+    "name": "atinf/demophp",
+    "description": "demos of php,including phpunit,...",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "huadong",
+            "email": "huadonge@qq.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^6.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Atinf\\DemoPhp\\": "src/"
+        }
+    }
+}
