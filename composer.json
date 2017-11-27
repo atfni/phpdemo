@@ -1,5 +1,5 @@
 {
-    "name": "atinf/demophp",
+    "name": "ojso/demophp",
     "description": "demos of php,including phpunit,...",
     "type": "project",
     "license": "MIT",
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Atinf\\DemoPhp\\": "src/"
+            "Ojso\\DemoPhp\\": "src/"
         }
     }
 }
